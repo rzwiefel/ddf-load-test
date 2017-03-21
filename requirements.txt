@@ -1,0 +1,8 @@
+cx_Freeze
+locustio==0.8a2
+requests==2.13.0
+certifi
+shapely
+geojson
+python-geohash
+
