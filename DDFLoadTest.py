@@ -117,8 +117,7 @@ class IntrigueUser(locust.HttpLocust):
     task_set = IntrigueTasks
     min_wait = 5000
     max_wait = 10000
-    # host = "https://newui.phx.connexta.com:8993"
-    # host = "https://goten.local:8993"
+    # host = "https://examplehost:8993"
 
 
 if __name__ == '__main__':

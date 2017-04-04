@@ -14,9 +14,9 @@ A simple load testing tool taking advantage of locust.io.
 
 
 ## Running
-1. Run `python main.py --host=https://localhost:8993` to start the application
+1. Run `python DDFLoadTest.py --host=https://localhost:8993` to start the application
     - `python` may be aliased to `python3` on macOS
     - replace `localhost:8993` with running server address
-2. Navigate to [https://localhost:8089](https://localhost:8089) to open the Load Test UI.
+2. Navigate to [http://localhost:8089](http://localhost:8089) to open the Load Test UI.
 
 
