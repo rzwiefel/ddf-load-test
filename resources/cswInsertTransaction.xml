@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<csw:Transaction service="CSW" verboseResponse="true" version="2.0.2" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+    <csw:Insert typeName="${type}">
+        ${xml}
+    </csw:Insert>
+</csw:Transaction>
